@@ -19,3 +19,5 @@ Divers projets QGIS, faits principalement via les tutoriels présents sur le sit
 <h2>Sources et références</h2>
 
 - <b>Ujaval Gandhi,  https://www.qgistutorials.com/en/</b>
+<br><br>
+- <b>English version of this project: https://github.com/EdwinGenti/Various_Projects__Quick__</b>
